@@ -1,0 +1,548 @@
+Symbol,all Overall Sentiment,Instrument Name,Recent Sentiment Rising or Falling,all Volume of Mentions
+SP500,good,S&P 500 Index,up,26887786
+GME,good,GameStop Corp.,up,968065
+INTC,good,Intel Corporation,down,802347
+NWSA,good,News Corporation,down,717425
+AAPL,good,Apple Inc.,up,660158
+GOOG,good,Google Inc.,down,654340
+FB,good,"Facebook, Inc.",down,622446
+GS,good,"The Goldman Sachs Group, Inc.",up,618148
+MCD,good,McDonald's Corp.,down,598898
+TWTR,good,"Twitter, Inc.",up,577002
+ZNGA,good,"Zynga, Inc.",up,560053
+MGM,very good,MGM Resorts International,up,488159
+JNJ,very good,Johnson and Johnson,down,477799
+KO,very good,The Coca-Cola Company,down,444803
+HD,very good,"The Home Depot, Inc.",down,444325
+NOK,very good,Nokia Corporation,down,432307
+SBUX,very good,Starbucks Corporation,up,423570
+NFLX,good,"Netflix, Inc.",down,421713
+KSS,good,Kohl's Corp.,down,418564
+PFE,very good,Pfizer Inc.,up,361736
+NKE,good,"Nike, Inc.",down,360990
+TGT,good,Target Corp.,up,344830
+SHLD,good,Sears Holdings Corporation,up,343876
+URBN,poor,Urban Outfitters Inc.,down,329054
+TXN,very good,Texas Instruments Inc.,up,315649
+T,good,"ATT, Inc.",down,308579
+SNE,very good,Sony Corporation,down,294714
+VZ,good,Verizon Communications Inc.,down,265208
+XOM,very good,Exxon Mobil Corporation,up,264671
+JOY,good,"Joy Global, Inc.",up,250458
+SCHW,very good,The Charles Schwab Corporation,down,248699
+GM,good,General Motors Company,up,237480
+AMZN,very good,Amazon.com Inc.,down,229229
+SCHL,very good,Scholastic Corporation,down,228799
+WMT,good,Wal-Mart Stores Inc.,down,225288
+JCI,good,Johnson Controls Inc.,down,223774
+ABBV,very good,AbbVie Inc.,up,208415
+MCP,very good,"Molycorp, Inc.",up,199766
+AFL,very good,AFLAC Inc.,down,196002
+ABT,good,Abbott Laboratories,down,182371
+AMD,very good,"Advanced Micro Devices, Inc.",up,179218
+S,very good,Sprint Corporation,down,178468
+M,good,"Macy's, Inc.",up,169075
+AIG,good,"American International Group, Inc.",down,165431
+AMAT,good,"Applied Materials, Inc.",down,161416
+LOW,very good,Lowe's Companies Inc.,up,153146
+CSX,good,CSX Corp.,down,151923
+YHOO,good,Yahoo! Inc.,up,151651
+MCO,good,Moody's Corporation,up,151535
+AEO,good,"American Eagle Outfitters, Inc.",down,148414
+ACN,very good,Accenture plc,up,146187
+MSFT,very good,Microsoft Corporation,down,144433
+ANF,good,Abercrombie &amp; Fitch Co.,down,140090
+JNPR,very good,"Juniper Networks, Inc.",down,135021
+TM,good,Toyota Motor Corporation,up,132414
+PGR,good,Progressive Corp.,down,126487
+SIRI,very good,Sirius XM Holdings Inc.,down,124191
+K,good,Kellogg Company,up,117049
+PRU,very good,"Prudential Financial, Inc.",down,109615
+CMI,very good,Cummins Inc.,down,109330
+QCOM,good,QUALCOMM Incorporated,up,106875
+TSLA,good,"Tesla Motors, Inc.",up,105291
+PG,very good,The Procter &amp; Gamble Company,up,96364
+DRI,good,"Darden Restaurants, Inc.",up,95700
+PLD,very good,"Prologis, Inc.",up,92395
+KR,very good,The Kroger Co.,down,89516
+DVA,good,DaVita HealthCare Partners Inc.,up,86831
+UA,very good,"Under Armour, Inc.",down,84795
+ARNA,good,"Arena Pharmaceuticals, Inc.",down,83376
+BA,good,The Boeing Company,up,83230
+SYMC,good,Symantec Corporation,up,81422
+MYL,good,Mylan N.V.,down,79378
+DHR,very good,Danaher Corp.,up,77698
+PETS,very good,"PetMed Express, Inc.",down,75032
+JPM,good,JPMorgan Chase &amp; Co.,up,71653
+F,good,Ford Motor Co.,up,71360
+ACE,good,ACE Limited,down,67470
+WFC,poor,Wells Fargo &amp; Company,up,65449
+TIF,good,Tiffany &amp; Co.,up,64154
+NILE,good,Blue Nile Inc.,up,64075
+KMB,very good,Kimberly-Clark Corporation,up,63238
+IBM,very good,International Business Machines Corporation,down,61003
+ADBE,very good,Adobe Systems Incorporated,up,60587
+PSA,very good,Public Storage,down,60152
+DHI,good,DR Horton Inc.,down,56258
+BAC,good,Bank of America Corporation,down,52995
+BBRY,good,BlackBerry Limited,down,52462
+WTW,good,"Weight Watchers International, Inc.",up,48689
+DIS,very good,The Walt Disney Company,down,45483
+NDAQ,very good,"The Nasdaq OMX Group, Inc.",up,44459
+KIM,very good,Kimco Realty Corporation,down,44065
+C,good,Citigroup Inc.,up,43831
+ATVI,very good,"Activision Blizzard, Inc.",up,42171
+ACI,good,Arch Coal Inc.,up,42148
+ORCL,very good,Oracle Corporation,up,41272
+KMI,good,"Kinder Morgan, Inc.",down,40499
+CSCO,good,"Cisco Systems, Inc.",down,40160
+VALE,good,Vale S.A.,down,36529
+ADT,good,The ADT Corporation,up,35927
+PEG,very good,Public Service Enterprise Group Inc.,up,35566
+AES,good,The AES Corporation,up,35435
+KEY,good,KeyCorp.,up,35120
+KLAC,good,KLA-Tencor Corporation,up,33057
+RHT,very good,"Red Hat, Inc.",up,32767
+LMT,good,Lockheed Martin Corporation,up,32046
+CMCSA,good,Comcast Corporation,up,31375
+MRK,good,Merck &amp; Co. Inc.,up,30303
+DF,good,Dean Foods Company,up,29920
+DE,good,Deere &amp; Company,up,29842
+QEP,very good,"QEP Resources, Inc.",down,29742
+MS,good,Morgan Stanley,up,29521
+PHM,good,"PulteGroup, Inc.",up,29412
+JCP,good,"J. C. Penney Company, Inc.",down,29256
+LLY,good,Eli Lilly and Company,up,29085
+RTN,good,Raytheon Company,up,28872
+DAL,good,"Delta Air Lines, Inc.",up,28042
+EBAY,very good,eBay Inc.,up,27488
+LEG,very good,"Leggett &amp; Platt, Incorporated",up,27243
+AET,good,Aetna Inc.,up,27208
+MDLZ,good,"Mondelez International, Inc.",up,26059
+TWX,good,Time Warner Inc.,up,25587
+CMG,good,"Chipotle Mexican Grill, Inc.",up,25189
+MAR,good,"Marriott International, Inc.",up,24726
+BLK,good,"BlackRock, Inc.",up,24460
+NVDA,very good,NVIDIA Corporation,down,24411
+CRM,very good,"salesforce.com, inc.",up,24391
+CELG,very good,Celgene Corporation,down,23905
+CVX,good,Chevron Corporation,up,23287
+DOW,very good,The Dow Chemical Company,up,22932
+GILD,good,Gilead Sciences Inc.,down,22523
+DNR,good,Denbury Resources Inc.,down,22193
+CA,very good,"CA, Inc.",up,22082
+RRC,very good,Range Resources Corporation,up,21895
+MA,very good,MasterCard Incorporated,up,21628
+P,very good,"Pandora Media, Inc.",down,21317
+FSLR,very good,"First Solar, Inc.",up,21194
+DUK,very good,Duke Energy Corporation,up,20843
+BBY,very good,"Best Buy Co., Inc.",up,20516
+SCTY,very good,SolarCity Corporation,down,20476
+A,very good,Agilent Technologies Inc.,up,20472
+MON,good,Monsanto Company,up,20155
+LNKD,good,LinkedIn Corporation,down,20154
+BRK-B,good,Berkshire Hathaway Inc.,up,19930
+DLPH,good,Delphi Automotive PLC,down,19357
+GE,very good,General Electric Company,up,19234
+ARO,poor,"Aeropostale, Inc.
+",up,19160
+FDX,very good,FedEx Corporation,down,19055
+PEP,very good,"Pepsico, Inc.",up,18989
+CBS,very good,CBS Corporation,up,18815
+MDT,good,Medtronic plc,up,18458
+DGX,very good,Quest Diagnostics Inc.,up,18456
+CAT,good,Caterpillar Inc.,up,18281
+DFS,very good,Discover Financial Services,up,18185
+AMGN,good,Amgen Inc.,up,17992
+LUV,very good,Southwest Airlines Co.,down,17969
+DDD,good,3D Systems Corporation,down,17917
+GD,good,General Dynamics Corporation,down,17871
+BK,poor,The Bank of New York Mellon Corporation,down,17740
+V,very good,Visa Inc.,down,17703
+BMY,good,Bristol-Myers Squibb Company,down,17676
+MAT,good,"Mattel, Inc.",down,17443
+WFM,good,"Whole Foods Market, Inc.",down,17349
+YUM,very good,"Yum! Brands, Inc.",up,17322
+CVS,very good,CVS Health Corporation,down,17211
+LNC,very good,Lincoln National Corporation,up,17150
+MU,very good,"Micron Technology, Inc.",up,17010
+UNH,very good,UnitedHealth Group Incorporated,down,16982
+LM,good,Legg Mason Inc.,up,16973
+CHK,good,Chesapeake Energy Corporation,up,16742
+X,good,United States Steel Corp.,down,16703
+FCX,good,Freeport-McMoRan Inc.,down,16606
+AA,good,Alcoa Inc.,up,16477
+LRCX,very good,Lam Research Corporation,down,16428
+GRPN,very good,"Groupon, Inc.",up,16241
+AXP,very good,American Express Company,up,16134
+DG,good,Dollar General Corporation,up,16091
+TWC,poor,Time Warner Cable Inc.,down,15630
+MTB,poor,M&amp;T Bank Corporation,up,15615
+BKS,good,"Barnes &amp; Noble, Inc.",up,15494
+CBG,very good,"CBRE Group, Inc.",up,15435
+HON,very good,Honeywell International Inc.,up,15404
+D,very good,"Dominion Resources, Inc.",down,15359
+CAMP,good,CalAmp Corp.,up,15321
+LULU,good,Lululemon Athletica Inc.,up,15228
+COST,good,Costco Wholesale Corporation,down,14982
+FFIV,very good,"F5 Networks, Inc.",down,14440
+EMC,very good,EMC Corporation,up,14369
+CLF,very good,Cliffs Natural Resources Inc.,down,14235
+PWR,good,"Quanta Services, Inc.",up,14043
+DISCA,very good,"Discovery Communications, Inc.",up,13868
+LLL,good,L-3 Communications Holdings Inc.,up,13739
+HPQ,very good,Hewlett-Packard Company,down,13578
+DTV,poor,DIRECTV,up,13572
+GPS,good,"The Gap, Inc.",up,13548
+SPLS,good,"Staples, Inc.",down,13491
+NOC,good,Northrop Grumman Corporation,down,13445
+HAL,good,Halliburton Company,up,13353
+RF,good,Regions Financial Corporation,up,13333
+HTZ,good,"Hertz Global Holdings, Inc.",up,13134
+MET,good,"MetLife, Inc.",up,13119
+TRIP,good,TripAdvisor Inc.,down,13111
+WYNN,good,Wynn Resorts Ltd.,down,13104
+BIIB,good,Biogen Inc.,up,13068
+CME,very good,CME Group Inc.,up,12721
+STT,good,State Street Corporation,up,12663
+EXPE,good,Expedia Inc.,down,12636
+APD,very good,Air Products &amp; Chemicals Inc.,up,12625
+XRAY,good,DENTSPLY International Inc.,down,12624
+AEE,very good,Ameren Corporation,up,12575
+PPG,good,PPG Industries Inc.,down,12522
+RAI,good,Reynolds American Inc.,up,12336
+LEN,very good,Lennar Corp.,down,12321
+GTN,very good,"Gray Television, Inc.",up,12164
+DTE,good,DTE Energy Company,up,12134
+DD,good,E. I. du Pont de Nemours and Company,up,12125
+MKC,good,"McCormick &amp; Company, Incorporated",up,12076
+PCLN,very good,The Priceline Group Inc.,down,11963
+MO,very good,Altria Group Inc.,down,11950
+BRCM,very good,Broadcom Corp.,up,11791
+FNMA,good,Federal National Mortgage Association,down,11705
+COH,good,"Coach, Inc.",up,11698
+MCHP,very good,Microchip Technology Inc.,up,11611
+SO,very good,Southern Company,up,11599
+ETFC,good,E*TRADE Financial Corporation,down,11473
+ACT,very good,Actavis plc,up,11460
+AON,very good,Aon plc,up,11446
+SLB,good,Schlumberger Limited,up,11429
+HOT,good,Starwood Hotels &amp; Resorts Worldwide Inc.,down,11180
+VIAB,good,"Viacom, Inc.",up,11156
+CCL,very good,Carnival Corporation,up,11144
+FE,very good,FirstEnergy Corp.,up,11115
+CI,good,Cigna Corp.,up,11109
+KORS,good,Michael Kors Holdings Limited,up,11064
+LLTC,very good,Linear Technology Corporation,down,11030
+UTX,good,United Technologies Corporation,down,10979
+BHI,good,Baker Hughes Incorporated,down,10929
+WWWW,good,"Web.com Group, Inc.",up,10870
+MHFI,very good,"McGraw Hill Financial, Inc.",down,10773
+EOG,very good,"EOG Resources, Inc.",down,10681
+JWN,good,Nordstrom Inc.,up,10621
+NRG,very good,"NRG Energy, Inc.",down,10526
+MNST,good,Monster Beverage Corporation,up,10480
+HUM,good,Humana Inc.,up,10438
+COP,very good,ConocoPhillips,up,10300
+GMCR,very good,"Keurig Green Mountain, Inc.",up,10261
+PVTB,good,"PrivateBancorp, Inc.",up,10229
+LYB,good,LyondellBasell Industries N.V.,up,10220
+WMB,good,"Williams Companies, Inc.",up,10199
+CLDX,good,"Celldex Therapeutics, Inc.",down,10190
+GAS,very good,AGL Resources Inc.,up,10187
+COL,very good,Rockwell Collins Inc.,up,10153
+APA,good,Apache Corp.,down,10123
+PPL,good,PPL Corporation,up,9990
+NUE,very good,Nucor Corporation,down,9866
+GNW,good,"Genworth Financial, Inc.",up,9809
+MSI,good,"Motorola Solutions, Inc.",down,9771
+ETN,very good,Eaton Corporation plc,down,9748
+APC,good,Anadarko Petroleum Corporation,down,9709
+BBT,good,BB&amp;T Corporation,up,9676
+GLW,very good,Corning Inc.,down,9655
+EFX,very good,Equifax Inc.,up,9620
+HST,very good,"Host Hotels &amp; Resorts, Inc.",up,9613
+HOG,very good,"Harley-Davidson, Inc.",down,9520
+DLTR,very good,"Dollar Tree, Inc.",down,9512
+SNDK,good,SanDisk Corp.,down,9495
+DO,very good,"Diamond Offshore Drilling, Inc.",up,9492
+EA,very good,Electronic Arts Inc.,down,9480
+HCP,good,"HCP, Inc.",down,9410
+EXC,very good,Exelon Corporation,down,9380
+IVZ,good,Invesco Ltd.,down,9366
+TDC,very good,Teradata Corporation,up,9342
+TSN,good,"Tyson Foods, Inc.",up,9293
+PM,very good,"Philip Morris International, Inc.",up,9271
+GRMN,very good,Garmin Ltd.,up,9257
+INTU,very good,Intuit Inc.,up,9254
+XRX,good,Xerox Corporation,up,9183
+MMC,good,"Marsh &amp; McLennan Companies, Inc.",up,9057
+FTR,good,Frontier Communications Corporation,up,9025
+NEE,very good,"NextEra Energy, Inc.",up,9007
+UNP,good,Union Pacific Corporation,up,8996
+MCK,good,McKesson Corporation,up,8980
+HAS,very good,Hasbro Inc.,down,8887
+NEM,very good,Newmont Mining Corporation,up,8878
+L,good,Loews Corporation,up,8855
+ROK,very good,Rockwell Automation Inc.,down,8845
+DVN,very good,Devon Energy Corporation,down,8844
+CF,good,"CF Industries Holdings, Inc.",down,8832
+HRB,good,"H&amp;R Block, Inc.",up,8735
+PCG,very good,PG&amp;E Corporation,up,8668
+SPG,good,Simon Property Group Inc.,down,8659
+HSY,very good,The Hershey Company,down,8651
+CTL,good,"CenturyLink, Inc.",up,8646
+DKS,good,Dick's Sporting Goods Inc.,up,8618
+RSG,very good,"Republic Services, Inc.",up,8584
+FITB,good,Fifth Third Bancorp,up,8518
+AMRN,very good,Amarin Corporation plc,down,8488
+CTXS,very good,"Citrix Systems, Inc.",up,8453
+WYN,very good,Wyndham Worldwide Corporation,up,8440
+ALL,good,The Allstate Corporation,up,8437
+GIS,good,"General Mills, Inc.",down,8435
+MPC,very good,Marathon Petroleum Corporation,up,8365
+PSX,very good,Phillips 66,down,8349
+HES,good,Hess Corporation,down,8308
+PRGO,good,Perrigo Company Public Limited Company,down,8292
+WIN,good,"Windstream Holdings, Inc.",down,8257
+VLO,good,Valero Energy Corporation,down,8254
+AKAM,very good,"Akamai Technologies, Inc.",up,8246
+HAR,good,"Harman International Industries, Incorporated",down,8223
+GT,very good,The Goodyear Tire &amp; Rubber Company,up,8189
+MRO,good,Marathon Oil Corporation,down,8159
+ISRG,very good,"Intuitive Surgical, Inc.",up,8134
+WGO,very good,"Winnebago Industries, Inc.",down,8081
+BAX,very good,Baxter International Inc.,up,8063
+COF,good,Capital One Financial Corporation,up,8033
+BLL,very good,Ball Corporation,down,8015
+CNX,good,CONSOL Energy Inc.,up,7979
+WU,good,The Western Union Company,down,7973
+STJ,good,St. Jude Medical Inc.,down,7947
+SE,very good,Spectra Energy Corp.,down,7930
+NLY,good,"Annaly Capital Management, Inc.",down,7897
+BSX,good,Boston Scientific Corporation,down,7854
+TSO,good,Tesoro Corporation,up,7840
+EW,good,Edwards Lifesciences Corp.,up,7839
+NTAP,good,"NetApp, Inc.",up,7826
+HBAN,good,Huntington Bancshares Incorporated,up,7822
+NTRS,very good,Northern Trust Corporation,up,7802
+MJN,good,Mead Johnson Nutrition Company,down,7772
+DPS,good,"Dr Pepper Snapple Group, Inc.",up,7737
+FISV,very good,"Fiserv, Inc.",down,7691
+XL,good,XL Group plc,down,7670
+PNC,good,"The PNC Financial Services Group, Inc.",up,7643
+SD,good,"SandRidge Energy, Inc.",up,7588
+ETR,very good,Entergy Corporation,up,7573
+OKE,good,ONEOK Inc.,down,7561
+ESRX,good,Express Scripts Holding Company,up,7547
+MNKD,good,MannKind Corp.,down,7512
+USB,good,U.S. Bancorp,up,7508
+NBL,very good,"Noble Energy, Inc.",down,7490
+NTRI,very good,"Nutrisystem, Inc.",up,7482
+STX,good,Seagate Technology Public Limited Company,up,7410
+R,very good,"Ryder System, Inc.",down,7409
+XLNX,good,Xilinx Inc.,up,7376
+AIZ,good,Assurant Inc.,down,7323
+CLX,very good,The Clorox Company,up,7301
+SRE,good,Sempra Energy,up,7282
+ALXN,good,"Alexion Pharmaceuticals, Inc.",up,7278
+PXD,very good,Pioneer Natural Resources Co.,up,7248
+THC,good,Tenet Healthcare Corp.,up,7217
+EMR,very good,Emerson Electric Co.,up,7124
+TXT,very good,Textron Inc.,up,7123
+GCI,good,"Gannett Co., Inc.",down,7061
+CTSH,very good,Cognizant Technology Solutions Corporation,down,6921
+STZ,very good,Constellation Brands Inc.,up,6901
+LH,very good,Laboratory Corp. of America Holdings,up,6891
+WPX,very good,"WPX Energy, Inc.",up,6881
+XEL,good,Xcel Energy Inc.,down,6876
+CPB,very good,Campbell Soup Company,up,6871
+ADSK,good,"Autodesk, Inc.",down,6845
+NOV,good,"National Oilwell Varco, Inc.",down,6808
+NUS,good,Nu Skin Enterprises Inc.,up,6793
+ALTR,very good,Altera Corp.,down,6770
+WM,good,"Waste Management, Inc.",up,6753
+AMT,very good,American Tower Corporation,down,6740
+MOS,good,The Mosaic Company,down,6737
+ROST,very good,Ross Stores Inc.,up,6646
+STI,good,"SunTrust Banks, Inc.",up,6637
+TAP,good,Molson Coors Brewing Company,down,6628
+CMS,good,CMS Energy Corp.,down,6618
+FMC,very good,FMC Corp.,down,6613
+DSW,very good,DSW Inc.,down,6598
+ECYT,good,"Endocyte, Inc.",down,6591
+SYK,very good,Stryker Corporation,up,6575
+HRS,very good,Harris Corporation,up,6559
+PFG,very good,Principal Financial Group Inc.,up,6547
+NWL,very good,Newell Rubbermaid Inc.,down,6521
+KRFT,good,"Kraft Foods Group, Inc.",down,6469
+EQT,very good,EQT Corporation,down,6463
+WDC,very good,Western Digital Corporation,up,6436
+ANN,very good,ANN INC.,down,6398
+CAB,good,Cabela's Incorporated,up,6357
+AEP,very good,"American Electric Power Co., Inc.",up,6311
+ADI,very good,"Analog Devices, Inc.",up,6305
+FMCC,good,Federal Home Loan Mortgage Corporation,down,6226
+GWW,good,"W.W. Grainger, Inc.",up,6224
+MAS,very good,Masco Corporation,down,6186
+MAC,very good,The Macerich Company,up,6177
+CERN,very good,Cerner Corporation,up,6155
+WHR,very good,Whirlpool Corp.,up,6125
+QDEL,good,Quidel Corp.,down,6121
+OXY,very good,Occidental Petroleum Corporation,down,6116
+RL,good,Ralph Lauren Corporation,up,6087
+NE,good,Noble Corporation plc,down,6067
+ARG,very good,"Airgas, Inc.",up,6066
+OMC,very good,Omnicom Group Inc.,up,6038
+HOV,good,Hovnanian Enterprises Inc.,down,6014
+GES,good,Guess' Inc.,down,5943
+UNXL,very good,"Uni-Pixel, Inc.",down,5912
+BEN,very good,"Franklin Resources, Inc.",up,5903
+EMN,very good,Eastman Chemical Co.,up,5891
+FL,very good,"Foot Locker, Inc.",down,5887
+SYY,very good,Sysco Corporation,up,5876
+TJX,very good,"The TJX Companies, Inc.",up,5875
+NSC,good,Norfolk Southern Corporation,up,5873
+TRV,good,"The Travelers Companies, Inc.",up,5870
+KSU,good,Kansas City Southern,down,5869
+AVP,very good,Avon Products Inc.,up,5836
+DOV,good,Dover Corporation,up,5828
+BWA,good,BorgWarner Inc.,up,5818
+CAG,very good,"ConAgra Foods, Inc.",up,5813
+BIG,very good,Big Lots Inc.,up,5797
+SFLY,very good,"Shutterfly, Inc.",down,5785
+IRM,very good,Iron Mountain Inc.,down,5757
+PAYX,very good,"Paychex, Inc.",down,5729
+HIG,good,"The Hartford Financial Services Group, Inc.",down,5704
+JEC,very good,Jacobs Engineering Group Inc.,up,5665
+ECL,very good,Ecolab Inc.,up,5644
+PX,very good,Praxair Inc.,up,5579
+HCN,very good,"Health Care REIT, Inc.",down,5563
+SHW,very good,The Sherwin-Williams Company,down,5558
+CAH,very good,"Cardinal Health, Inc.",down,5543
+LUK,very good,Leucadia National Corporation,up,5534
+FLR,very good,Fluor Corporation,down,5533
+CMA,good,Comerica Incorporated,up,5530
+SNI,very good,"Scripps Networks Interactive, Inc.",down,5519
+ESV,good,Ensco plc,down,5507
+CNP,good,"CenterPoint Energy, Inc.",down,5456
+CVC,very good,Cablevision Systems Corporation,up,5445
+KMX,very good,CarMax Inc.,up,5439
+UPS,very good,"United Parcel Service, Inc.",down,5415
+APOL,very good,"Apollo Education Group, Inc.",down,5383
+PBI,very good,Pitney Bowes Inc.,up,5375
+EIX,good,Edison International,down,5371
+CB,good,The Chubb Corporation,down,5344
+AN,very good,AutoNation Inc.,up,5321
+FHN,good,First Horizon National Corporation,down,5314
+NFX,very good,Newfield Exploration Co.,up,5300
+XYL,very good,Xylem Inc.,up,5276
+SWK,good,"Stanley Black &amp; Decker, Inc.",up,5254
+SWN,good,Southwestern Energy Co.,up,5253
+JDSU,very good,JDS Uniphase Corporation,down,5227
+TROW,very good,"T. Rowe Price Group, Inc.",up,5152
+CTAS,very good,Cintas Corporation,up,5149
+CL,good,Colgate-Palmolive Co.,up,5101
+VTR,very good,"Ventas, Inc.",down,5093
+AMP,very good,"Ameriprise Financial, Inc.",up,5086
+FDO,good,Family Dollar Stores Inc.,down,5064
+IR,very good,Ingersoll-Rand Plc,up,5055
+FTI,very good,"FMC Technologies, Inc.",down,5047
+FOSL,good,"Fossil Group, Inc.",down,5041
+WY,good,Weyerhaeuser Co.,down,5030
+ABC,very good,AmerisourceBergen Corporation,up,5017
+SEE,very good,Sealed Air Corporation,down,5010
+RHI,very good,Robert Half International Inc.,down,5003
+IP,very good,International Paper Company,up,4968
+WAT,good,Waters Corporation,down,4949
+FLIR,very good,"FLIR Systems, Inc.",down,4905
+ZION,good,Zions Bancorporation,up,4905
+NBR,good,Nabors Industries Ltd.,up,4881
+SIAL,very good,Sigma-Aldrich Corporation,up,4878
+BBBY,good,Bed Bath &amp; Beyond Inc.,up,4827
+ICE,good,"Intercontinental Exchange, Inc.",down,4805
+SCG,good,SCANA Corp.,down,4756
+VFC,good,V.F. Corporation,down,4686
+SJM,good,The J. M. Smucker Company,down,4683
+EL,good,"The Estee Lauder Companies Inc.
+",up,4675
+RDC,good,Rowan Companies plc,up,4666
+ROP,good,"Roper Industries, Inc.",up,4644
+AVY,good,Avery Dennison Corporation,down,4635
+TYC,very good,Tyco International Ltd.,up,4607
+EQR,good,Equity Residential,down,4606
+EXPR,good,Express Inc.,down,4595
+TE,good,"TECO Energy, Inc.",down,4565
+WEC,very good,Wisconsin Energy Corp.,up,4539
+TEL,good,TE Connectivity Ltd.,down,4522
+BXP,very good,Boston Properties Inc.,down,4514
+HSP,very good,Hospira Inc.,up,4481
+CCE,very good,Coca-Cola Enterprises Inc.,up,4458
+PCAR,good,PACCAR Inc.,down,4445
+TMO,good,"Thermo Fisher Scientific, Inc.",up,4420
+HRL,good,Hormel Foods Corporation,up,4352
+GPC,good,Genuine Parts Company,up,4311
+BF-B,good,Brown-Forman Corporation,down,4311
+COG,good,Cabot Oil &amp; Gas Corporation,up,4267
+PH,very good,Parker-Hannifin Corporation,up,4266
+PNR,very good,Pentair plc,up,4211
+MUR,good,Murphy Oil Corporation,down,4202
+NI,very good,NiSource Inc.,down,4181
+VNO,good,Vornado Realty Trust,down,4064
+UNM,very good,Unum Group,down,4024
+PDCO,very good,"Patterson Companies, Inc.",up,3960
+AZO,good,"AutoZone, Inc.",down,3960
+VRSN,very good,"VeriSign, Inc.",down,3948
+FLWS,very good,1-800-Flowers.com Inc.,up,3946
+IGT,very good,International Game Technology,down,3934
+SNA,very good,Snap-on Incorporated,down,3916
+SLM,good,SLM Corporation,down,3869
+ITW,very good,Illinois Tool Works Inc.,down,3811
+CHRW,good,CH Robinson Worldwide Inc.,down,3784
+IPG,very good,"The Interpublic Group of Companies, Inc.",up,3781
+JBL,good,Jabil Circuit Inc.,up,3773
+VAR,good,"Varian Medical Systems, Inc.",down,3734
+DDS,good,Dillard's Inc.,up,3704
+SRCL,good,"Stericycle, Inc.",down,3687
+DNB,very good,Dun &amp; Bradstreet Corp.,up,3684
+FAST,good,Fastenal Company,down,3602
+AVB,good,Avalonbay Communities Inc.,up,3579
+BCR,very good,CR Bard Inc.,down,3565
+ADM,good,Archer-Daniels-Midland Company,up,3559
+TMK,good,Torchmark Corporation,up,3551
+FLS,good,Flowserve Corp.,down,3551
+CAM,good,Cameron International Corporation,down,3537
+BDX,very good,"Becton, Dickinson and Company",up,3533
+PBCT,good,People's United Financial Inc.,up,3509
+VMC,very good,Vulcan Materials Company,up,3421
+HP,good,"Helmerich &amp; Payne, Inc.",down,3396
+TER,good,Teradyne Inc.,up,3371
+EXPD,good,Expeditors International of Washington Inc.,up,3319
+APH,very good,Amphenol Corporation,down,3311
+PCP,good,Precision Castparts Corp.,down,3262
+AIV,very good,Apartment Investment and Management Company,up,3215
+PLL,good,Pall Corporation,up,3215
+IFF,very good,International Flavors &amp; Fragrances Inc.,up,3191
+TEG,good,"Integrys Energy Group, Inc.",down,3155
+ATI,good,Allegheny Technologies Inc.,down,3149
+PCL,good,Plum Creek Timber Co. Inc.,up,3139
+HCBK,poor,"Hudson City Bancorp, Inc.",up,3058
+CINF,good,Cincinnati Financial Corp.,down,2972
+MMM,very good,3M Company,up,2943
+TSS,good,"Total System Services, Inc.",down,2933
+DLX,good,Deluxe Corp.,down,2869
+PKI,very good,PerkinElmer Inc.,up,2847
+BTU,good,Peabody Energy Corp.,up,2776
+ORLY,good,O'Reilly Automotive Inc.,down,2761
+MWV,very good,MeadWestvaco Corporation,up,2704
+CIM,good,Chimera Investment Corporation,down,2640
+ED,very good,"Consolidated Edison, Inc.",up,2632
+BMS,good,"Bemis Company, Inc.",down,2520
+ZMH,very good,"Zimmer Holdings, Inc.",down,2420
+CSC,very good,Computer Sciences Corporation,up,2334
+PNW,good,Pinnacle West Capital Corporation,down,2301
+OI,good,"Owens-Illinois, Inc.",down,2123
+ADP,good,"Automatic Data Processing, Inc.",down,2108
+FIS,good,"Fidelity National Information Services, Inc.",down,2038
+POM,very good,"Pepco Holdings, Inc.",down,1994
+LO,very good,"Lorillard, Inc.",down,1968
